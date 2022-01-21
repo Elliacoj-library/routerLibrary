@@ -1,6 +1,6 @@
 {
     "name": "amaur/routeur",
-    "type": "project",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Amaur\\Router\\": "src/"
