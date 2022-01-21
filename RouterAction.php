@@ -1,5 +1,7 @@
 <?php
 
+namespace Amaur\Router;
+
 use Amaur\Router\RouterComposants\Route;
 use Amaur\Router\RouterComposants\Router;
 
