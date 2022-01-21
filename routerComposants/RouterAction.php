@@ -1,6 +1,6 @@
 <?php
 
-namespace Amaur\Router;
+namespace Amaur\Router\RouterComposants;
 
 use Amaur\Router\RouterComposants\Route;
 use Amaur\Router\RouterComposants\Router;
