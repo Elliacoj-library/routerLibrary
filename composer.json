@@ -17,6 +17,7 @@
             "email": "73291249+Elliacoj@users.noreply.github.com"
         }
     ],
+    "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     }
