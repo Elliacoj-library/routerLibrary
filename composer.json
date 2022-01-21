@@ -3,7 +3,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Amaur\\Router\\": "src/"
+            "Amaur\\Router\\RouterComposants\\": "routerComposants/"
         }
     },
     "autoload-dev": {
