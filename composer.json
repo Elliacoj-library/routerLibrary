@@ -8,7 +8,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Amaur\\Router\\Tests\\": "tests/"
+            "Amaur\\Router\\RouterComposants\\": "routerComposants/"
         }
     },
     "authors": [
